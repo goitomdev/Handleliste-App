@@ -1,2 +1,2 @@
 # Handleliste-App
-shared-project
+Joint-project
