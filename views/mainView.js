@@ -1,4 +1,4 @@
 function mainView(){
-    document.getElementById('app').innerHTML= /*HTML*/ `<h1> Hei på deg </h1>`;
+    document.getElementById('app').innerHTML= /*HTML*/ `<h1> Team 3 Handleliste app </h1>`;
 
 }
